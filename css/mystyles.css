@@ -1,0 +1,10 @@
+.mb-2{
+    width: 200px;
+    height: 300px;
+}
+h2{
+    font-family: 'comic sans', 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: purple !important;
+}
